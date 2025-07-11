@@ -5,7 +5,7 @@ title: Altitude House Consulting - ERP Training Series
 
 <img src="airplane_banner.jpg" alt="Altitude House Consulting" width="300"/>
 
-# ✈ERP Data Training Series  
+# ERP Data Training Series  
 ## Powered by Altitude House Consulting
 
 Welcome to your ERP learning hub. This free training series includes SQL scripts, Power BI templates, and ERP star schema models using real-world systems like **SAP, PeopleSoft, Infor, Deltek, and Sage**.
