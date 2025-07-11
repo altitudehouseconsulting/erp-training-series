@@ -18,7 +18,12 @@ Welcome to the official repository for the ERP Data Analysis & Reporting Trainin
 - [Download Power BI](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - [Download SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 - [SQL Server Management Studio](https://go.microsoft.com/fwlink/?linkid=2313753)
-- [Download SQL Scripts (ZIP)](./Week1/SQL_Scripts.zip)
+- [Download SQL Scripts (ZIP)](./Week1/SAP_SD_HCM_SQL_Scripts.zip)
+- [Download SQL Scripts (ZIP)](./Week1/SAP_PP_WM_SQL_Scripts.zip)
+- [Download SQL Scripts (ZIP)](./Week1/SAP_FI_MM_SQL_Scripts.zip)
+- [Download SQL Scripts (ZIP)](./Week1/PS_FSCM_SQL_Scripts.zip)
+- [Download SQL Scripts (ZIP)](./Week1/PS_HCM_SQL_Scripts.zip)
+- [Download SQL Scripts (ZIP)](./Week1/PS_SCM_MM_SQL_Scripts.zip)
 
 ### Week 2 Steps 4-6: Information_Schema, Fact and Dim SQL Views, Power BI Models 
 ### Week 3 Steps 7-9: Best Practices, Visualizations, Publish 
