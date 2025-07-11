@@ -1,3 +1,9 @@
+
+
+
+
+
+
 # ERP Training Series  
 ### by Altitude House Consulting
 
@@ -8,15 +14,20 @@ Welcome to the official repository for the ERP Data Analysis & Reporting Trainin
 
 ## Episodes & Downloads
 
-### Week 1 Steps 1-3: Installing SQL Server Express + Power BI, ERP Base Tables & Star Schema Models
-- [Download Power BI](./Week1/SQL_Scripts.zip)
-- [Download SQL Server Express](./Week1/SQL_Scripts.zip)
-- [SQL Server Management Studio](./Week1/SQL_Scripts.zip)
-- [Download SQL Scripts (ZIP)](./Week1/SQL_Scripts.zip)
+### Week 1 Steps 1-3: Installing SQL Server Express + Power BI, ERP Base Tables
+- [Download Power BI](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+- [Download SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- [SQL Server Management Studio](https://go.microsoft.com/fwlink/?linkid=2313753)
+- [Download SAP_SD_HCM_SQL (ZIP)](./Week-1/SAP_SD_HCM_SQL_Scripts.zip)
+- [Download SAP_PP_WM_SQL (ZIP)](./Week-1/SAP_PP_WM_SQL_Scripts.zip)
+- [Download SAP_FI_MM_SQL (ZIP)](./Week-1/SAP_FI_MM_SQL_Scripts.zip)
+- [Download PS_FSCM_SQL_(ZIP)](./Week-1/PS_FSCM_SQL_Scripts.zip)
+- [Download PS HCM_SQL (ZIP)](./Week-1/PS_HCM_SQL_Scripts.zip)
+- [Download PS_SCM_MM_SQL (ZIP)](./Week-1/PS_SCM_MM_SQL_Scripts.zip)
 
-### Week 2 Steps 4-6: Using Information_Schema, Fact and Dim views, bringing model into Power BI  
+### Week 2 Steps 4-6: Information_Schema, Fact and Dim SQL Views, Power BI Models 
 ### Week 3 Steps 7-9: Best Practices, Visualizations, Publish 
-### Week 4 Steps 10-12: Python & Powershell Automation, Metadata in Data Dictionary Website, Final Review 
+### Week 4 Steps 10-12: Automation, Metadata/Data Dictionary Website, Final Review 
 
 
 ---
@@ -27,6 +38,6 @@ Welcome to the official repository for the ERP Data Analysis & Reporting Trainin
 ---
 
 ## About Altitude House Consulting
-We empower learners and professionals through structured data education, specializing in ERP reporting, SQL, Power BI, and data governance.
+We empower learners and professionals through structured data education, specializing in ERP reporting, SQL, Power BI, and Data Governance.
 
 📧 Contact us: `altitudehouseconsultingllc@gmail.com`
