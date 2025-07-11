@@ -27,6 +27,6 @@ Welcome to the official repository for the ERP Data Analysis & Reporting Trainin
 ---
 
 ## About Altitude House Consulting
-We empower learners and professionals through structured data education, specializing in ERP reporting, SQL, Power BI, and data governance.
+We empower learners and professionals through structured data education, specializing in ERP reporting, SQL, Power BI, and Data Governance.
 
 📧 Contact us: `altitudehouseconsultingllc@gmail.com`
