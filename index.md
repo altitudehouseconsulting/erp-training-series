@@ -1,13 +1,15 @@
 ---
-layout: default
-title: Altitude House Consulting - ERP Training Series
----
-<img src="airplane_banner.jpg" alt="Altitude House Consulting" width="300"/>
 
-# ERP Data Training Series  
-## Powered by Altitude House Consulting
+<img src="airplane_banner.jpg" alt="Altitude House Consulting" width=100%/>
 
+<div align="center">
+  <h1> ERP Data Training Series</h1>
+  <h3>Powered by Altitude House Consulting</h3>
+</div>
+
+<div align="center">
 Welcome to your ERP learning hub. This free training series includes SQL scripts, Power BI templates, and ERP star schema models using real-world systems like **SAP, PeopleSoft, Infor, Deltek, and Sage**.
+</div>
 
 ---
 
@@ -16,7 +18,9 @@ Welcome to your ERP learning hub. This free training series includes SQL scripts
 <details>
 <summary><strong> Week 1 – Installing SQL Server Express & Power BI</strong></summary>
 
--  [Slides (PDF)](Week1/Slides.pdf)
+-  [SQL Server Express (download)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+-  [SSMS (download)](https://go.microsoft.com/fwlink/?linkid=2313753)
+-  [Power BI Desktop (download)](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 -  [SQL Scripts (ZIP)](Week1/SQL_Scripts.zip)
 
 </details>
@@ -24,7 +28,7 @@ Welcome to your ERP learning hub. This free training series includes SQL scripts
 <details>
 <summary><strong> Week 2 – ERP Base Tables & Star Schemas</strong></summary>
 
-- 🧾 [Power BI Template (PBIX)](Week2/PowerBI_Template.pbix)
+- *(Files coming soon)*
 
 </details>
 
