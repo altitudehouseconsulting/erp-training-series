@@ -14,9 +14,9 @@ Welcome to the official repository for the ERP Data Analysis & Reporting Trainin
 - [SQL Server Management Studio](./Week1/SQL_Scripts.zip)
 - [Download SQL Scripts (ZIP)](./Week1/SQL_Scripts.zip)
 
-### Week 2 Steps 4-6: Using Information_Schema, Fact and Dim views, bringing model into Power BI  
+### Week 2 Steps 4-6: Information_Schema, Fact and Dim views, bringing model into Power BI  
 ### Week 3 Steps 7-9: Best Practices, Visualizations, Publish 
-### Week 4 Steps 10-12: Python & Powershell Automation, Metadata in Data Dictionary Website, Final Review 
+### Week 4 Steps 10-12: Automation, Metadata in Data Dictionary Website, Final Review 
 
 
 ---
