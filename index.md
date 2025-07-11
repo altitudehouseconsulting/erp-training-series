@@ -22,7 +22,7 @@ title: ERP Training Series
 ##  Download Training Files
 
 <details>
-<summary><strong> Week 1 – Installing SQL Server Express & Power BI</strong></summary>
+<summary><strong> Week 1 – Installing SQL Server Express,Power BI,ERP Base Tables</strong></summary>
 
 -  [SQL Server Express (download)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)  
 -  [SSMS (download)](https://go.microsoft.com/fwlink/?linkid=2313753)  
@@ -32,13 +32,16 @@ title: ERP Training Series
 </details>
 
 <details>
-<summary><strong> Week 2 – ERP Base Tables & Star Schemas</strong></summary>
+  
+<summary><strong> Week 2 – Fact, Dimensions, and Star Schemas</strong></summary>
 
 - *(Files coming soon)*
+
 
 </details>
 
 <details>
+  
 <summary><strong> Week 3 – Data Cleansing and ETL</strong></summary>
 
 - *(Files coming soon)*
@@ -46,6 +49,7 @@ title: ERP Training Series
 </details>
 
 <details>
+  
 <summary><strong> Week 4 – Power BI Dashboard Customization</strong></summary>
 
 - *(Files coming soon)*
