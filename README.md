@@ -8,22 +8,19 @@ Welcome to the official repository for the ERP Data Analysis & Reporting Trainin
 
 ## Episodes & Downloads
 
-### Week 1 Steps 1-3: Installing SQL Server Express + Power BI, Building Base Tables with Mock Data
+### Week 1 Steps 1-3: Installing SQL Server Express + Power BI, ERP Base Tables & Star Schema Models
 - [Download Power BI](./Week1/SQL_Scripts.zip)
 - [Download SQL Server Express](./Week1/SQL_Scripts.zip)
 - [SQL Server Management Studio](./Week1/SQL_Scripts.zip)
 - [Download SQL Scripts (ZIP)](./Week1/SQL_Scripts.zip)
 
-### Week 2: ERP Base Tables & Star Schema Models Steps 4-6
-- [Download Information Schema SQL](./Week2/SQL_Scripts.zip)
-- [Download Fact Dimension Views SQL](./Week2/SQL_Scripts.zip)
-- [Import Data Model into Power BI](ERP_Star_Schema.pbix)
-
-### Week 3: Best Practices, Visualizations, Publish 7-9
+### Week 2 Steps 4-6: Using INFORMATION_SCHEMA, Fact and Dimension views, bringing ERP Model into Power BI  
 
 
+### Week 3 Steps 7-9: Best Practices, Visualizations, Publish 
 
-### Week 4: Automation, Metadata Website, Final Review 10-12
+
+### Week 4 Steps 10-12: Python & Powershell Automation, Metadata in Data Dictionary Website, Final Review 
 
 
 ---
