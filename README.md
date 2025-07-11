@@ -8,7 +8,7 @@ Welcome to the official repository for the ERP Data Analysis & Reporting Trainin
 
 ## Episodes & Downloads
 
-### Week 1 Steps 1-3: Installing SQL Server Express + Power BI, ERP Base Tables & Star Schema Models
+### Week 1 Steps 1-3: Installing SQL Server Express + Power BI, ERP Base Tables
 - [Download Power BI](./Week1/SQL_Scripts.zip)
 - [Download SQL Server Express](./Week1/SQL_Scripts.zip)
 - [SQL Server Management Studio](./Week1/SQL_Scripts.zip)
