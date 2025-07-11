@@ -2,7 +2,6 @@
 layout: default
 title: Altitude House Consulting - ERP Training Series
 ---
-
 <img src="airplane_banner.jpg" alt="Altitude House Consulting" width="300"/>
 
 # ERP Data Training Series  
@@ -15,7 +14,7 @@ Welcome to your ERP learning hub. This free training series includes SQL scripts
 ## Download Training Files
 
 <details>
-<summary><strong>📦 Week 1 – Installing SQL Server Express & Power BI</strong></summary>
+<summary><strong> Week 1 – Installing SQL Server Express & Power BI</strong></summary>
 
 -  [Slides (PDF)](Week1/Slides.pdf)
 -  [SQL Scripts (ZIP)](Week1/SQL_Scripts.zip)
@@ -45,8 +44,8 @@ Welcome to your ERP learning hub. This free training series includes SQL scripts
 
 ---
 
-## 🎬 Watch the Series on YouTube  
-👉 [Altitude House YouTube Channel](https://www.youtube.com/@altitudehouseconsulting)
+##  Watch the Series on YouTube  
+ [Altitude House YouTube Channel](https://www.youtube.com/@altitudehouseconsulting)
 
 ---
 
