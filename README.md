@@ -18,13 +18,8 @@ Welcome to the official repository for the ERP Data Analysis & Reporting Trainin
 - [Download Power BI](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - [Download SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 - [SQL Server Management Studio](https://go.microsoft.com/fwlink/?linkid=2313753)
-- [Download SAP_SD_HCM_SQL (ZIP)](https://drive.google.com/drive/folders/1twbB4chgLNfx9GUxm1V0qxE-g1TET2JJ?usp=drive_link)
-- [Download SAP_PP_WM_SQL (ZIP)](./erp-training-series/Week-1/SAP_PP_WM_SQL_Scripts.zip)
-- [Download SAP_FI_MM_SQL (ZIP)](./erp-training-series/Week-1/SAP_FI_MM_SQL_Scripts.zip)
-- [Download PS_FSCM_SQL_(ZIP)](./erp-training-series/Week-1/PS_FSCM_SQL_Scripts.zip)
-- [Download PS HCM_SQL (ZIP)](./erp-training-series/Week-1/PS_HCM_SQL_Scripts.zip)
-- [Download PS_SCM_MM_SQL (ZIP)](./erp-training-series/Week-1/PS_SCM_MM_SQL_Scripts.zip)
-
+- [Download PeopleSoft_SQL_Scripts(ZIP)](https://drive.google.com/drive/folders/1twbB4chgLNfx9GUxm1V0qxE-g1TET2JJ?usp=drive_link)
+- [Download SAP_SQL Scripts(ZIP)](https://drive.google.com/drive/folders/1KTFhMHYfAV0Uae8VA2V1AwbE3bHfeSP7?usp=drive_link)
 ### Week 2 Steps 4-6: Information_Schema, Fact and Dim SQL Views, Power BI Models 
 ### Week 3 Steps 7-9: Best Practices, Visualizations, Publish 
 ### Week 4 Steps 10-12: Automation, Metadata/Data Dictionary Website, Final Review 
