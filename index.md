@@ -29,12 +29,9 @@ title: ERP Training Series
 - [Download Infor_SQL Scripts(ZIP)]()
 - [Download Deltek_SQL Scripts(ZIP)]()
 - [Download Sage_SQL Scripts(ZIP)]()
-## Week 2 – Fact, Dimensions, and Star Schemas
-- *(Files coming soon)*
-## Week 3 – Data Cleansing and ETL
-- *(Files coming soon)*
-## Week 4 – Power BI Dashboard Customization
-- *(Files coming soon)*
+## Week 2 – Fact, Dimensions, and Star Schemas *(Files coming soon)*
+## Week 3 – Data Cleansing and ETL *(Files coming soon)*
+## Week 4 – Power BI Dashboard Customization *(Files coming soon)*
 ---
 ##  Watch the Series on YouTube  
  [Altitude House YouTube Channel](https://www.youtube.com/@altitudehouseconsulting)
