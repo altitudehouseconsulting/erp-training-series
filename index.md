@@ -27,7 +27,7 @@ title: ERP Training Series
 -  [SQL Server Express (download)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)  
 -  [SSMS (download)](https://go.microsoft.com/fwlink/?linkid=2313753)  
 -  [Power BI Desktop (download)](https://www.microsoft.com/en-us/download/details.aspx?id=58494)  
--  [SQL Scripts (ZIP)](Week1/SQL_Scripts.zip)
+-  [SQL Scripts (ZIP)]()
 
 </details>
 
