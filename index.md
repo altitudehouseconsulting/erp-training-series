@@ -18,32 +18,24 @@ title: ERP Training Series
 </p>
 
 ---
-
 ##  Download Training Files
 
 ## Week 1 – Installing SQL Server Express,Power BI,ERP Base Tables
-
--  [SQL Server Express (download)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)  
--  [SSMS (download)](https://go.microsoft.com/fwlink/?linkid=2313753)  
--  [Power BI Desktop (download)](https://www.microsoft.com/en-us/download/details.aspx?id=58494)  
--  [SQL Scripts (ZIP)]()
-
- 
+- [Download Power BI](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+- [Download SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- [SQL Server Management Studio](https://go.microsoft.com/fwlink/?linkid=2313753)
+- [Download PeopleSoft_SQL_Scripts(ZIP)](https://drive.google.com/drive/folders/1twbB4chgLNfx9GUxm1V0qxE-g1TET2JJ?usp=drive_link)
+- [Download SAP_SQL Scripts(ZIP)](https://drive.google.com/drive/folders/1KTFhMHYfAV0Uae8VA2V1AwbE3bHfeSP7?usp=drive_link)
+- [Download Infor_SQL Scripts(ZIP)]()
+- [Download Deltek_SQL Scripts(ZIP)]()
+- [Download Sage_SQL Scripts(ZIP)]()
 ## Week 2 – Fact, Dimensions, and Star Schemas
-
 - *(Files coming soon)*
-
-
 ## Week 3 – Data Cleansing and ETL
-
 - *(Files coming soon)*
-  
 ## Week 4 – Power BI Dashboard Customization
-
 - *(Files coming soon)*
-
 ---
-
 ##  Watch the Series on YouTube  
  [Altitude House YouTube Channel](https://www.youtube.com/@altitudehouseconsulting)
 
