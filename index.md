@@ -17,6 +17,8 @@ title: ERP Training Series
   Welcome to your ERP learning hub. This free training series includes SQL scripts, Power BI templates, and ERP star schema models using real-world systems like <strong>SAP, PeopleSoft, Infor, Deltek, and Sage</strong>.
 </p>
 
+##  Watch the Series on YouTube  
+ [Altitude House YouTube Channel](https://www.youtube.com/@altitudehouseconsulting)
 ---
 ##  Download Training Files
 
@@ -33,11 +35,6 @@ title: ERP Training Series
 ## Week 3 – Data Cleansing and ETL *(Files coming soon)*
 ## Week 4 – Power BI Dashboard Customization *(Files coming soon)*
 ---
-##  Watch the Series on YouTube  
- [Altitude House YouTube Channel](https://www.youtube.com/@altitudehouseconsulting)
-
----
-
 <p align="center">
 © Altitude House Consulting – Simplifying enterprise analytics.
 </p>
