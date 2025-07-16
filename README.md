@@ -20,9 +20,9 @@ Welcome to the official repository for the ERP Data Analysis & Reporting Trainin
 - [SQL Server Management Studio](https://go.microsoft.com/fwlink/?linkid=2313753)
 - [Download PeopleSoft_SQL_Scripts(ZIP)](https://drive.google.com/drive/folders/1twbB4chgLNfx9GUxm1V0qxE-g1TET2JJ?usp=drive_link)
 - [Download SAP_SQL Scripts(ZIP)](https://drive.google.com/drive/folders/1KTFhMHYfAV0Uae8VA2V1AwbE3bHfeSP7?usp=drive_link)
-- [Download Infor_SQL Scripts(ZIP)]()
-- [Download Deltek_SQL Scripts(ZIP)]()
-- [Download Sage_SQL Scripts(ZIP)]()
+- [Download Infor_SQL Scripts(ZIP)](https://drive.google.com/drive/folders/1UQU7dMV8SJddMfnFZ0pYRY6rxqU6U0tT?usp=drive_link)
+- [Download Deltek_SQL Scripts(ZIP)](https://drive.google.com/drive/folders/165f58hepIcRPP4pShCBMdVqvlBFjfv92?usp=drive_link)
+- [Download Sage_SQL Scripts(ZIP)](https://drive.google.com/drive/folders/1vS4YOh5he-h8_mfZEOsji5w9-0b-sfsK?usp=sharing)
 ### Week 2 Steps 4-6: Information_Schema, Fact/Dim & SQL Views, Power BI Models 
 ### Week 3 Steps 7-9: Best Practices, Visualizations, Publish 
 ### Week 4 Steps 10-12: Automation, Metadata/Data Dictionary Website, Final Review 
