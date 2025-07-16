@@ -20,7 +20,8 @@ title: ERP Training Series
 ##  Watch the Series on YouTube: [Altitude House Consulting](https://www.youtube.com/@altitudehouseconsulting)
 ---
 ##  Download Training Files
-## Week 1 – Required Software and SQL Scripts
+<details>
+<summary><strong>Week 1 – Required Software and SQL Scripts</strong></summary>
 - [Download Power BI](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - [Download SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 - [SQL Server Management Studio](https://go.microsoft.com/fwlink/?linkid=2313753)
@@ -29,9 +30,22 @@ title: ERP Training Series
 - [Download Infor_SQL Scripts(ZIP)](https://drive.google.com/drive/folders/1UQU7dMV8SJddMfnFZ0pYRY6rxqU6U0tT?usp=drive_link)
 - [Download Deltek_SQL Scripts(ZIP)](https://drive.google.com/drive/folders/165f58hepIcRPP4pShCBMdVqvlBFjfv92?usp=drive_link)
 - [Download Sage_SQL Scripts(ZIP)](https://drive.google.com/drive/folders/1vS4YOh5he-h8_mfZEOsji5w9-0b-sfsK?usp=sharing)
-## Week 2 – Data Modeling *(Files coming soon)*
-## Week 3 – Data Cleansing and Transformation *(Files coming soon)*
-## Week 4 – Power BI Dashboard Customization *(Files coming soon)*
+</details>
+
+<details>
+<summary><strong>Week 2 – Data Modeling</strong></summary>
+- (Files coming soon)   
+</details>  
+
+<details>
+<summary><strong>Week 3 – Data Cleansing and Transformation</strong></summary>
+- (Files coming soon)  
+</details> 
+
+<details>
+<summary><strong>Week 4 – Power BI Dashboard Customization</strong></summary>
+- (Files coming soon)
+</details>  
 ---
 <p align="center">
 © Altitude House Consulting – Simplifying enterprise analytics.
