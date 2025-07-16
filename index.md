@@ -1,6 +1,10 @@
+
+
 ---
+
 layout: default
 title: ERP Training Series
+
 ---
 
 <!-- Full-width banner -->
