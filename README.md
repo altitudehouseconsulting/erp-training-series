@@ -1,9 +1,4 @@
 
-
-
-
-
-
 # ERP Training Series  
 ### by Altitude House Consulting
 
@@ -13,7 +8,7 @@ Welcome to the official repository for the ERP Data Analysis & Reporting Trainin
 ---
 
 ## Episodes 
-### Week 1 Steps 1-3: Installing SQL Server Express + Power BI, ERP Base Tables
+### Week 1 Steps 1-3: Installing SQL Server Express, SSMS, and Power BI, Create ERP Base Tables
 ### Week 2 Steps 4-6: Information_Schema, Fact and Dim SQL Views, Power BI Models 
 ### Week 3 Steps 7-9: Best Practices, Visualizations, Publish 
 ### Week 4 Steps 10-12: Automation, Metadata/Data Dictionary Website, Final Review 
