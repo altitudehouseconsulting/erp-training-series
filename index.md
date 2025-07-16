@@ -22,14 +22,18 @@ title: ERP Training Series
 ##  Download Training Files
 <details>
 <summary><strong>Week 1 – Required Software and SQL Scripts</strong></summary>
-- [Download Power BI](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
-- [Download SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- [SQL Server Management Studio](https://go.microsoft.com/fwlink/?linkid=2313753)
-- [Download PeopleSoft_SQL_Scripts(ZIP)](https://drive.google.com/drive/folders/1twbB4chgLNfx9GUxm1V0qxE-g1TET2JJ?usp=drive_link)
-- [Download SAP_SQL Scripts(ZIP)](https://drive.google.com/drive/folders/1KTFhMHYfAV0Uae8VA2V1AwbE3bHfeSP7?usp=drive_link)
-- [Download Infor_SQL Scripts(ZIP)](https://drive.google.com/drive/folders/1UQU7dMV8SJddMfnFZ0pYRY6rxqU6U0tT?usp=drive_link)
-- [Download Deltek_SQL Scripts(ZIP)](https://drive.google.com/drive/folders/165f58hepIcRPP4pShCBMdVqvlBFjfv92?usp=drive_link)
-- [Download Sage_SQL Scripts(ZIP)](https://drive.google.com/drive/folders/1vS4YOh5he-h8_mfZEOsji5w9-0b-sfsK?usp=sharing)
+
+  
+- [Download Power BI](https://www.microsoft.com/en-us/download/details.aspx?id=58494)  
+- [Download SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)  
+- [SQL Server Management Studio](https://go.microsoft.com/fwlink/?linkid=2313753)  
+- [Download PeopleSoft_SQL_Scripts(ZIP)](https://drive.google.com/drive/folders/1twbB4chgLNfx9GUxm1V0qxE-g1TET2JJ?usp=drive_link)  
+- [Download SAP_SQL Scripts(ZIP)](https://drive.google.com/drive/folders/1KTFhMHYfAV0Uae8VA2V1AwbE3bHfeSP7?usp=drive_link)  
+- [Download Infor_SQL Scripts(ZIP)](https://drive.google.com/drive/folders/1UQU7dMV8SJddMfnFZ0pYRY6rxqU6U0tT?usp=drive_link)  
+- [Download Deltek_SQL Scripts(ZIP)](https://drive.google.com/drive/folders/165f58hepIcRPP4pShCBMdVqvlBFjfv92?usp=drive_link)  
+- [Download Sage_SQL Scripts(ZIP)](https://drive.google.com/drive/folders/1vS4YOh5he-h8_mfZEOsji5w9-0b-sfsK?usp=sharing)  
+
+
 </details>
 
 <details>
