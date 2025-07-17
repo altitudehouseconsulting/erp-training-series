@@ -18,6 +18,11 @@ title: ERP Training Series
 </p>
 
 ##  Watch the Series on YouTube: [Altitude House Consulting](https://www.youtube.com/@altitudehouseconsulting)
+
+---
+
+## [ERP Git Portal](https://altitudehouseconsulting.github.io/erp-training-series/)
+## [Data Dictionary Git Portal](https://altitudehouseconsulting.github.io/TheDataDictionary/)
 ---
 ##  Download Training Files
 <details>
