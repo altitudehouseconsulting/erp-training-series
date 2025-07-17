@@ -21,8 +21,8 @@ title: ERP Training Series
 [Altitude House Consulting YouTube Channel](https://www.youtube.com/@altitudehouseconsulting)  
 
 ---
-## The Data Dictionary
-[The Data Dictionary]https://altitudehouseconsulting.github.io/TheDataDictionary/  
+## Reference Materials
+[The Data Dictionary](https://altitudehouseconsulting.github.io/TheDataDictionary/)  
 
 ---
 
