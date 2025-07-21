@@ -36,9 +36,7 @@ title: ERP Training Series
   <li><a href="https://go.microsoft.com/fwlink/?linkid=2313753" target="_blank">SQL Server Management Studio</a></li>
   <li><a href="https://drive.google.com/drive/folders/1twbB4chgLNfx9GUxm1V0qxE-g1TET2JJ?usp=drive_link" target="_blank">Download PeopleSoft SQL Scripts (ZIP)</a></li>
   <li><a href="https://drive.google.com/drive/folders/1KTFhMHYfAV0Uae8VA2V1AwbE3bHfeSP7?usp=drive_link" target="_blank">Download SAP SQL Scripts (ZIP)</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1UQU7dMV8SJddMfnFZ0pYRY6rxqU6U0tT?usp=drive_link" target="_blank">Download Infor SQL Scripts (ZIP)</a></li>
-  <li><a href="https://drive.google.com/drive/folders/165f58hepIcRPP4pShCBMdVqvlBFjfv92?usp=drive_link" target="_blank">Download Deltek SQL Scripts (ZIP)</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1vS4YOh5he-h8_mfZEOsji5w9-0b-sfsK?usp=sharing" target="_blank">Download Sage SQL Scripts (ZIP)</a></li>
+
 </ul>
 </details>
 
