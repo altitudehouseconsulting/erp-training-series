@@ -29,7 +29,7 @@ title: ERP Training Series
 ## Training File Downloads
 
 <details>
-<summary><strong>Week 1 – Required Software and SQL Scripts</strong></summary>
+<summary><strong>Step 1 to Step 3 – Required Software and SQL Scripts</strong></summary>
 <ul>
   <li><a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank">Download Power BI</a></li>
   <li><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">Download SQL Server Express</a></li>
@@ -41,7 +41,7 @@ title: ERP Training Series
 </details>
 
 <details>
-<summary><strong>Week 2 – Data Modeling</strong></summary>
+<summary><strong>Step 4 - Step 6 – Data Modeling</strong></summary>
 <ul>
   <li><a href="https://drive.google.com/drive/folders/1V3QnKc_BhTVSMYCwd9zSz_4d2xbMVIE3?usp=drive_link" target="_blank">Download Stored Procedures</a></li>
   <li><a href="https://drive.google.com/drive/folders/1rXusk34VxpeAXCrSxqgYIkOJVJarj5sE?usp=drive_link" target="_blank">Download Data Dictionary</a></li>
@@ -49,14 +49,14 @@ title: ERP Training Series
 </details>
 
 <details>
-<summary><strong>Week 3 – Data Cleansing and Transformation</strong></summary>
+<summary><strong>Step 7 - Step 9 – Data Cleansing and Transformation</strong></summary>
 <ul>
   <li>(Files coming soon)</li>
 </ul>
 </details>
 
 <details>
-<summary><strong>Week 4 – Power BI Dashboard Customization</strong></summary>
+<summary><strong>Step 10 - Step 12 – Power BI Dashboard Customization</strong></summary>
 <ul>
   <li>(Files coming soon)</li>
 </ul>
