@@ -34,8 +34,8 @@ title: ERP Training Series
   <li><a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank">Download Power BI</a></li>
   <li><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">Download SQL Server Express</a></li>
   <li><a href="https://go.microsoft.com/fwlink/?linkid=2313753" target="_blank">SQL Server Management Studio</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1twbB4chgLNfx9GUxm1V0qxE-g1TET2JJ?usp=drive_link" target="_blank">Download PeopleSoft SQL Scripts (ZIP)</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1KTFhMHYfAV0Uae8VA2V1AwbE3bHfeSP7?usp=drive_link" target="_blank">Download SAP SQL Scripts (ZIP)</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1OHWzQC1BPMl-TAI7oZg4DZNrHb2RMlwL?usp=drive_link" target="_blank">Download SQL Scripts (ZIP)</a></li>
+  
 
 </ul>
 </details>
@@ -43,7 +43,8 @@ title: ERP Training Series
 <details>
 <summary><strong>Week 2 – Data Modeling</strong></summary>
 <ul>
-  <li>(Files coming soon)</li>
+  <li><a href="https://drive.google.com/drive/folders/1V3QnKc_BhTVSMYCwd9zSz_4d2xbMVIE3?usp=drive_link" target="_blank">Download Stored Procedures</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1rXusk34VxpeAXCrSxqgYIkOJVJarj5sE?usp=drive_link" target="_blank">Download Data Dictionary</a></li>
 </ul>
 </details>
 
