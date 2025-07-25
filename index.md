@@ -29,7 +29,7 @@ title: ERP Training Series
 ## Training File Downloads
 
 <details>
-<summary><strong>Step 1 - Step 3 – Required Software and SQL Scripts</strong></summary>
+<summary><strong>Step 1 to Step 3 – Required Software and SQL Scripts</strong></summary>
 <ul>
   <li><a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank">Download Power BI</a></li>
   <li><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">Download SQL Server Express</a></li>
@@ -49,14 +49,14 @@ title: ERP Training Series
 </details>
 
 <details>
-<summary><strong>Step 7 - Step 9 – Data Cleansing and Transformation</strong></summary>
+<summary><strong>Step 7 to Step 9 – Data Cleansing and Transformation</strong></summary>
 <ul>
   <li>(Files coming soon)</li>
 </ul>
 </details>
 
 <details>
-<summary><strong>Step 10 - Step 12 – Power BI Dashboard Customization</strong></summary>
+<summary><strong>Step 10 to Step 12 – Power BI Dashboard Customization</strong></summary>
 <ul>
   <li>(Files coming soon)</li>
 </ul>
