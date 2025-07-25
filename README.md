@@ -31,9 +31,11 @@ title: ERP Training Series
   
 - [Download Power BI](https://www.microsoft.com/en-us/download/details.aspx?id=58494)  
 - [Download SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)  
-- [Download SQL Server Management Studio](https://go.microsoft.com/fwlink/?linkid=2313753)  
-- [Download PeopleSoft_SQL_Scripts(ZIP)](https://drive.google.com/drive/folders/1twbB4chgLNfx9GUxm1V0qxE-g1TET2JJ?usp=drive_link)  
-- [Download SAP_SQL Scripts(ZIP)](https://drive.google.com/drive/folders/1KTFhMHYfAV0Uae8VA2V1AwbE3bHfeSP7?usp=drive_link)  
+- [Download SQL Server Management Studio](https://go.microsoft.com/fwlink/?linkid=2313753)
+- [Download SQL Scripts(ZIP)](https://drive.google.com/drive/folders/1OHWzQC1BPMl-TAI7oZg4DZNrHb2RMlwL?usp=drive_link)  
+- [Download Stored Procedures](https://drive.google.com/drive/folders/1V3QnKc_BhTVSMYCwd9zSz_4d2xbMVIE3?usp=drive_link)
+- [Download Data Dictionary SQLs](https://drive.google.com/drive/folders/1rXusk34VxpeAXCrSxqgYIkOJVJarj5sE?usp=drive_link)
+
 
 </details>
 
