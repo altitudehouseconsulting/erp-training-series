@@ -26,31 +26,30 @@ title: ERP Training Series
 ---
 ##  Download Training Files
 <details>
-<summary><strong>Week 1 – Required Software and SQL Scripts</strong></summary>
-
+<summary><strong>Step 1 to Step 3 – Required Software and SQL Scripts</strong></summary>
   
 - [Download Power BI](https://www.microsoft.com/en-us/download/details.aspx?id=58494)  
 - [Download SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)  
 - [Download SQL Server Management Studio](https://go.microsoft.com/fwlink/?linkid=2313753)
 - [Download SQL Scripts(ZIP)](https://drive.google.com/drive/folders/1OHWzQC1BPMl-TAI7oZg4DZNrHb2RMlwL?usp=drive_link)  
-- [Download Stored Procedures](https://drive.google.com/drive/folders/1V3QnKc_BhTVSMYCwd9zSz_4d2xbMVIE3?usp=drive_link)
-- [Download Data Dictionary SQLs](https://drive.google.com/drive/folders/1rXusk34VxpeAXCrSxqgYIkOJVJarj5sE?usp=drive_link)
-
 
 </details>
 
 <details>
-<summary><strong>Week 2 – Data Modeling</strong></summary>
-- (Files coming soon)   
+<summary><strong>Step 4 to Step 6 – Data Modeling</strong></summary>
+  
+- [Download Stored Procedures](https://drive.google.com/drive/folders/1V3QnKc_BhTVSMYCwd9zSz_4d2xbMVIE3?usp=drive_link)
+- [Download Data Dictionary SQLs](https://drive.google.com/drive/folders/1rXusk34VxpeAXCrSxqgYIkOJVJarj5sE?usp=drive_link)
+
 </details>  
 
 <details>
-<summary><strong>Week 3 – Data Cleansing and Transformation</strong></summary>
+<summary><strong>Step 7 to Step 9 – Data Cleansing and Transformation</strong></summary>
 - (Files coming soon)  
 </details> 
 
 <details>
-<summary><strong>Week 4 – Power BI Dashboard Customization</strong></summary>
+<summary><strong>Step 10 to Step 12 – Power BI Dashboard Customization</strong></summary>
 - (Files coming soon)
 </details>  
 ---
