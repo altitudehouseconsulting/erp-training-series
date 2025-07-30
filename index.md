@@ -22,7 +22,7 @@ title: ERP Training Series
 
 ---
 ## Reference Materials
-[The Data Dictionary](https://altitudehouseconsulting.github.io/TheDataDictionary/)  
+[The Data Dictionary](https://altitudehouseconsulting.github.io/the-data-dictionary/)  
 
 ---
 
