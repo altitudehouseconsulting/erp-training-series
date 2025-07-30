@@ -24,6 +24,8 @@ title: ERP Training Series
 ## Reference Materials
 [The Data Dictionary](https://altitudehouseconsulting.github.io/the-data-dictionary/)  
 
+[The Governance Dictionary](https://altitudehouseconsulting.github.io/the-governance-dictionary/)
+
 ---
 
 ## Training File Downloads
