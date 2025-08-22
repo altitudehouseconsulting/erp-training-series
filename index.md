@@ -3,274 +3,69 @@ layout: page
 title: ERP Training Series
 ---
 
-<!--
-  =============================================================
-  ERP Training Series — Altitude House Consulting
-  -------------------------------------------------------------
-  • Self-contained page (inline CSS)
-  • Brand-aligned blues, rounded cards, clean buttons
-  • Accessible, mobile-first, minimal dependencies
-  • All styles and sections commented for clarity
-  =============================================================
--->
+<!-- Full-width banner -->
+<img src="airplane_banner.jpg" alt="Altitude House Consulting" style="width: 100%; height: auto;" />
 
-<!-- =========================
-     Brand Styles (inline)
-     ========================= -->
-<style>
-  :root{
-    /* --- Brand Blues (adjust if you tweak the homepage palette) --- */
-    --ahc-bg:            #0b1f3a; /* deep navy for hero text over image if needed */
-    --ahc-ink:           #0e1726; /* near-black for body text */
-    --ahc-ink-muted:     #395071; /* muted ink for subcopy */
-    --ahc-primary:       #1e3a8a; /* indigo-800: headings, accents */
-    --ahc-primary-mid:   #2563eb; /* blue-600: links, buttons (hover base) */
-    --ahc-primary-light: #60a5fa; /* blue-400: subtle accents */
-    --ahc-surface:       #ffffff; /* cards/background */
-    --ahc-surface-alt:   #f5f8ff; /* very light blue section bg */
-    --ahc-border:        #e6edf7; /* soft divider lines */
-
-    --radius-xl: 1.25rem;
-    --radius-lg: 1rem;
-    --shadow-sm: 0 3px 10px rgba(3, 20, 47, 0.08);
-    --shadow-md: 0 10px 25px rgba(3, 20, 47, 0.12);
-
-    --container: 1100px;
-  }
-
-  /* --- Layout & Typography --- */
-  * { box-sizing: border-box; }
-  body{
-    margin: 0;
-    color: var(--ahc-ink);
-    font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
-    line-height: 1.55;
-    background: var(--ahc-surface);
-  }
-  .container{
-    max-width: var(--container);
-    padding: 1rem;
-    margin: 0 auto;
-  }
-  h1,h2,h3{
-    color: var(--ahc-primary);
-    line-height: 1.2;
-    margin: 0.2rem 0 0.6rem;
-  }
-  p.lead{
-    font-size: 1.125rem;
-    color: var(--ahc-ink-muted);
-    margin: 0.25rem auto 1.25rem;
-    max-width: 58ch;
-  }
-
-  /* --- Hero banner image --- */
-  .hero{
-    position: relative;
-    border-radius: var(--radius-xl);
-    overflow: hidden;
-    box-shadow: var(--shadow-md);
-    margin: 1rem auto 1.25rem;
-  }
-  .hero img{
-    width: 100%;
-    height: clamp(220px, 34vw, 420px);
-    object-fit: cover;
-    display: block;
-    filter: saturate(1.05) contrast(1.02);
-  }
-  /* Optional gradient overlay for legibility if you add headline on image later */
-  .hero::after{
-    content: "";
-    position: absolute; inset: 0;
-    background: linear-gradient(180deg, rgba(11,31,58,0.10), rgba(11,31,58,0.25) 60%, rgba(11,31,58,0.45));
-    pointer-events: none;
-  }
-
-  /* --- Centered Title Block --- */
-  .titleblock{
-    text-align: center;
-    padding: 0.25rem 0 0.5rem;
-  }
-  .subtitle{
-    color: var(--ahc-ink-muted);
-    margin-top: -0.2rem;
-  }
-
-  /* --- Card & Section shells --- */
-  .section{
-    background: var(--ahc-surface);
-    border: 1px solid var(--ahc-border);
-    border-radius: var(--radius-xl);
-    box-shadow: var(--shadow-sm);
-    padding: clamp(1rem, 2.5vw, 1.5rem);
-    margin: 1rem 0;
-  }
-  .section.alt{
-    background: var(--ahc-surface-alt);
-    border-color: transparent;
-  }
-
-  /* --- Link Buttons --- */
-  .btnrow{
-    display: flex; gap: 0.75rem; flex-wrap: wrap; justify-content: center;
-    margin: 0.75rem 0 0.25rem;
-  }
-  .btn{
-    display: inline-block;
-    padding: 0.75rem 1rem;
-    border-radius: var(--radius-lg);
-    text-decoration: none;
-    font-weight: 600;
-    border: 1px solid var(--ahc-primary);
-    color: #fff;
-    background: linear-gradient(180deg, var(--ahc-primary-mid), var(--ahc-primary));
-    transition: transform .08s ease, filter .2s ease, box-shadow .2s ease;
-    box-shadow: var(--shadow-sm);
-  }
-  .btn:hover{ transform: translateY(-1px); filter: brightness(1.02); }
-  .btn.outline{
-    background: transparent;
-    color: var(--ahc-primary);
-    border-color: var(--ahc-primary);
-  }
-  .btn.outline:hover{
-    background: rgba(37,99,235,0.08);
-  }
-
-  /* --- Details (accordion) styling --- */
-  details{
-    background: #fff;
-    border: 1px solid var(--ahc-border);
-    border-radius: var(--radius-lg);
-    padding: 0.75rem 1rem;
-    margin: 0.75rem 0;
-    box-shadow: var(--shadow-sm);
-  }
-  summary{
-    cursor: pointer;
-    font-weight: 700;
-    color: var(--ahc-primary);
-    list-style: none;
-  }
-  summary::-webkit-details-marker{ display:none; }
-  details[open]{ border-color: var(--ahc-primary-light); }
-
-  /* --- Simple list & links --- */
-  ul{ margin: 0.5rem 0 0.25rem 1.25rem; }
-  a{ color: var(--ahc-primary-mid); text-underline-offset: 2px; }
-  a:hover{ color: var(--ahc-primary); }
-
-  /* --- Footer note --- */
-  .foot{
-    text-align: center;
-    color: var(--ahc-ink-muted);
-    font-size: 0.95rem;
-    margin: 2rem 0 1rem;
-  }
-</style>
-
-<!-- =========================
-     Hero Banner
-     ========================= -->
-<div class="container">
-  <!--
-    Replace airplane_banner.jpg with an image in your repo.
-    Recommended: 2000x700+ JPG, optimized (~300–500KB).
-  -->
-  <div class="hero">
-    <img src="airplane_banner.jpg" alt="Altitude House Consulting — ERP Training Series" />
-  </div>
-
-  <!-- =========================
-       Title & Intro
-       ========================= -->
-  <div class="titleblock">
-    <h1>ERP Data Training Series</h1>
-    <h3 class="subtitle">Powered by Altitude House Consulting</h3>
-    <p class="lead">
-      Welcome to your ERP learning hub. This free training series includes SQL scripts, Power&nbsp;BI templates,
-      and ERP star schema models using real‑world systems like <strong>SAP, PeopleSoft, Infor, Deltek, and Sage</strong>.
-    </p>
-    <div class="btnrow">
-      <!-- Primary call to action buttons, brand-aligned -->
-      <a class="btn" href="#downloads">Browse Training Files</a>
-      <a class="btn outline" href="https://www.youtube.com/@altitudehouseconsulting" target="_blank" rel="noopener">YouTube Channel</a>
-    </div>
-  </div>
-
-  <!-- =========================
-       Reference Materials
-       ========================= -->
-  <section class="section alt" aria-labelledby="refs">
-    <h2 id="refs">Reference Materials</h2>
-    <p class="lead" style="margin-top: .25rem;">
-      Quick links to supporting dictionaries and resources used throughout the series.
-    </p>
-
-    <div class="btnrow" style="margin-top:.75rem;">
-      <a class="btn outline" href="https://altitudehouseconsulting.github.io/the-data-dictionary/" target="_blank" rel="noopener">The Data Dictionary</a>
-      <a class="btn outline" href="https://altitudehouseconsulting.github.io/the-governance-dictionary/" target="_blank" rel="noopener">The Governance Dictionary</a>
-    </div>
-  </section>
-
-  <!-- =========================
-       Training Downloads
-       ========================= -->
-  <section class="section" id="downloads" aria-labelledby="dl">
-    <h2 id="dl">Training File Downloads</h2>
-    <p class="lead">Follow the steps below. Each accordion contains links and notes.</p>
-
-    <!-- Steps 1–3 -->
-    <details>
-      <summary><strong>Step 1 to Step 3 — Required Software and SQL Scripts</strong></summary>
-      <ul>
-        <li><a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank" rel="noopener">Download Power BI</a></li>
-        <li><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noopener">Download SQL Server Express</a></li>
-        <li><a href="https://go.microsoft.com/fwlink/?linkid=2313753" target="_blank" rel="noopener">SQL Server Management Studio (SSMS)</a></li>
-        <li><a href="https://drive.google.com/drive/folders/1OHWzQC1BPMl-TAI7oZg4DZNrHb2RMlwL?usp=drive_link" target="_blank" rel="noopener">Download SQL Scripts (ZIP)</a></li>
-      </ul>
-    </details>
-
-    <!-- Steps 4–6 -->
-    <details>
-      <summary><strong>Step 4 to Step 6 — Data Modeling</strong></summary>
-      <ul>
-        <li><a href="https://drive.google.com/drive/folders/1V3QnKc_BhTVSMYCwd9zSz_4d2xbMVIE3?usp=drive_link" target="_blank" rel="noopener">Download Stored Procedures</a></li>
-        <li><a href="https://drive.google.com/drive/folders/1rXusk34VxpeAXCrSxqgYIkOJVJarj5sE?usp=drive_link" target="_blank" rel="noopener">Download Data Dictionary</a></li>
-      </ul>
-    </details>
-
-    <!-- Steps 7–9 -->
-    <details>
-      <summary><strong>Step 7 to Step 9 — Data Cleansing and Transformation</strong></summary>
-      <ul>
-        <li>(Files coming soon)</li>
-      </ul>
-    </details>
-
-    <!-- Steps 10–12 -->
-    <details>
-      <summary><strong>Step 10 to Step 12 — Power BI Dashboard Customization</strong></summary>
-      <ul>
-        <li>(Files coming soon)</li>
-      </ul>
-    </details>
-  </section>
-
-  <!-- =========================
-       YouTube Channel
-       ========================= -->
-  <section class="section alt" aria-labelledby="yt">
-    <h2 id="yt">The YouTube Channel</h2>
-    <p class="lead">Short, step‑by‑step videos that pair with the downloads above.</p>
-    <div class="btnrow">
-      <a class="btn" href="https://www.youtube.com/@altitudehouseconsulting" target="_blank" rel="noopener">Altitude House Consulting on YouTube</a>
-    </div>
-  </section>
-
-  <!-- =========================
-       Footer
-       ========================= -->
-  <p class="foot">© Altitude House Consulting — Simplifying enterprise analytics.</p>
+<!-- Centered Title -->
+<div align="center">
+  <h1>ERP Data Training Series</h1>
+  <h3>Powered by Altitude House Consulting</h3>
 </div>
+
+<!-- Centered description -->
+<p align="center">
+  Welcome to your ERP learning hub. This free training series includes SQL scripts, Power BI templates, and ERP star schema models using real-world systems like <strong>SAP, PeopleSoft, Infor, Deltek, and Sage</strong>.
+</p>
+
+## The YouTube Channel  
+[Altitude House Consulting YouTube Channel](https://www.youtube.com/@altitudehouseconsulting)  
+
+---
+## Reference Materials
+[The Data Dictionary](https://altitudehouseconsulting.github.io/the-data-dictionary/)  
+
+[The Governance Dictionary](https://altitudehouseconsulting.github.io/the-governance-dictionary/)
+
+---
+
+## Training File Downloads
+
+<details>
+<summary><strong>Step 1 to Step 3 – Required Software and SQL Scripts</strong></summary>
+<ul>
+  <li><a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank">Download Power BI</a></li>
+  <li><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">Download SQL Server Express</a></li>
+  <li><a href="https://go.microsoft.com/fwlink/?linkid=2313753" target="_blank">SQL Server Management Studio</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1OHWzQC1BPMl-TAI7oZg4DZNrHb2RMlwL?usp=drive_link" target="_blank">Download SQL Scripts (ZIP)</a></li>
+  
+
+</ul>
+</details>
+
+<details>
+<summary><strong>Step 4 - Step 6 – Data Modeling</strong></summary>
+<ul>
+  <li><a href="https://drive.google.com/drive/folders/1V3QnKc_BhTVSMYCwd9zSz_4d2xbMVIE3?usp=drive_link" target="_blank">Download Stored Procedures</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1rXusk34VxpeAXCrSxqgYIkOJVJarj5sE?usp=drive_link" target="_blank">Download Data Dictionary</a></li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Step 7 to Step 9 – Data Cleansing and Transformation</strong></summary>
+<ul>
+  <li>(Files coming soon)</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Step 10 to Step 12 – Power BI Dashboard Customization</strong></summary>
+<ul>
+  <li>(Files coming soon)</li>
+</ul>
+</details>
+
+---
+
+<p align="center">
+© Altitude House Consulting – Simplifying enterprise analytics.
+</p>
